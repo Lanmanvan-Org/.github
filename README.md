@@ -1,5 +1,15 @@
 # LanManVan Framework v1.5
 
+```
+
+______                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+___  /______ ______   __   @  lanmanvan framework (lmv-ng)   @
+__  /__  __ `__ \_ | / /   @ Go core, python3/bash moduling. @
+_  / _  / / / / /_ |/ /    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+/_/  /_/ /_/ /_/_____/
+
+```
+
 A lightweight, Metasploit-inspired modular framework written in Go.  
 Supports modules written in **Python 3** and **Bash**.
 
