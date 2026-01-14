@@ -13,6 +13,9 @@ _  / _  / / / / /_ |/ /    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 A lightweight, Metasploit-inspired modular framework written in Go.  
 Supports modules written in **Python 3** and **Bash**.
 
+[banner](./media/banner.png)
+[basic_usage](./media/basic_usage.png)
+
 [official website](http://lmv-ng.vercel.app/)
 
 ## Important:
