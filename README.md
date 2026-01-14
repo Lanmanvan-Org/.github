@@ -1,4 +1,4 @@
-# LanManVan Framework v1.5
+# LanManVan Framework 
 
 ```
 
